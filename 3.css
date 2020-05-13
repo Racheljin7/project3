@@ -1,0 +1,45 @@
+
+.t1{
+  position: absolute;
+  top:5vh;
+  left:75vh;
+}
+
+.t1:hover{
+
+background-image: url('07031.jpg');
+height:750px;
+width:600px;
+}
+
+
+
+
+.t2{
+  position: absolute;
+  top:45vh;
+  left:75vh;
+}
+
+.t2:hover{
+
+background-image: url('07301.jpg');
+height:750px;
+width:955px;
+position: absolute;
+}
+
+.t3{
+  position: absolute;
+  top:85vh;
+  left:75vh;
+}
+
+
+.t3:hover{
+
+background-image: url('10231.jpg');
+height:758px;
+width:950px;
+position: absolute;
+}

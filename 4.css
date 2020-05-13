@@ -1,0 +1,143 @@
+.q5{
+  position: absolute;
+  top:15vh;
+  left:20vh;
+}
+
+
+.a5{
+  position: absolute;
+  top:20vh;
+  left:100vh;
+}
+
+
+.a52{
+  position: absolute;
+  top:60vh;
+  left:100vh;
+}
+
+.ash{
+  position: absolute;
+  top:40vh;
+  left:20vh;
+}
+.overlay{
+  background-color: white;
+  position: absolute;
+  transition: all .3s ease;
+  opacity: 0;
+}
+
+.ash:hover .overlay{
+  opacity: 1;
+}
+
+.text{
+  font-family: courier-std, monospace;
+
+  font-weight: 700;
+
+  font-style: normal;
+}
+
+.pom{
+  position: absolute;
+  top:85vh;
+  left:20vh;
+}
+
+.overlay{
+  background-color: white;
+  position: absolute;
+  transition: all .3s ease;
+  opacity: 0;
+}
+
+.pom:hover .overlay{
+  opacity: 1;
+}
+
+.q6{
+  position: absolute;
+  top:35vh;
+  left:10vh;
+}
+
+
+.a6{
+  position: absolute;
+  top:10vh;
+  left:90vh;
+}
+
+
+.che{
+  position: absolute;
+  top:20vh;
+  left:15vh;
+}
+
+.q7{
+  position: absolute;
+  top:30vh;
+  left:15vh;
+}
+
+.che:hover{
+  opacity: 0;
+}
+
+
+.elaine{
+  position: absolute;
+  top:10vh;
+  left:105vh;
+}
+
+.a7{
+  position: absolute;
+  top:35vh;
+  left:105vh;
+}
+
+.elaine:hover{
+  opacity: 0;
+}
+
+
+.q9{
+  position: absolute;
+  top:40vh;
+  left:10vh;
+}
+
+.chris{
+  position: absolute;
+  top:40vh;
+  left:10vh;
+}
+
+.chris:hover{
+  opacity:0;
+}
+
+
+.a9{
+  position: absolute;
+  top:10vh;
+  left:90vh;
+}
+
+.q10{
+  position: absolute;
+  top:30vh;
+  left:8vh;
+}
+
+.a11{
+  position: absolute;
+  top:10vh;
+  left:60vh;
+}

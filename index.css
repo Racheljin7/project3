@@ -1,0 +1,315 @@
+.main{
+  position: absolute;
+  left:35vh;
+  top:5vh;
+}
+
+.word{
+  position: absolute;
+  left:8vh;
+  top:10vh;
+  height: 200px;
+  background-size: 100%;
+  background-position: center;
+}
+
+.word:hover{
+    position: absolute;
+    left:8vh;
+    top:10vh;
+    height: 250px;
+    background-size: 150%;
+    background-position: center;
+
+
+  }
+
+
+.p1{
+  position: absolute;
+  left:9vh;
+  top:40vh;
+  height: 120px;
+  background-size: 100%;
+  background-position: center;
+}
+
+.p1:hover{
+    position: absolute;
+    left:9vh;
+    top:35vh;
+    height: 200px;
+    background-size: 150%;
+    background-position: center;
+
+
+  }
+
+  .p2{
+    position: absolute;
+    left:28vh;
+    top:40vh;
+    height: 120px;
+    background-size: 100%;
+    background-position: center;
+  }
+
+  .p2:hover{
+      position: absolute;
+      left:28vh;
+      top:40vh;
+      height: 200px;
+      background-size: 150%;
+      background-position: center;
+
+
+    }
+
+    .p3{
+      position: absolute;
+      left:85vh;
+      top:33vh;
+      height: 120px;
+      background-size: 100%;
+      background-position: center;
+    }
+
+    .p3:hover{
+        position: absolute;
+        left:85vh;
+        top:33vh;
+        height: 200px;
+        background-size: 150%;
+        background-position: center;
+
+
+      }
+
+
+      .p4{
+        position: absolute;
+        left:95vh;
+        top:23vh;
+        height: 120px;
+        background-size: 100%;
+        background-position: center;
+      }
+
+      .p4:hover{
+          position: absolute;
+          left:95vh;
+          top:23vh;
+          height: 200px;
+          background-size: 150%;
+          background-position: center;
+
+
+        }
+
+
+        .p5{
+          position: absolute;
+          left:10vh;
+          top:55vh;
+          height: 120px;
+          background-size: 100%;
+          background-position: center;
+        }
+
+        .p5:hover{
+            position: absolute;
+            left:10vh;
+            top:55vh;
+            height: 200px;
+            background-size: 150%;
+            background-position: center;
+
+
+          }
+
+          .p6{
+            position: absolute;
+            left:103vh;
+            top:43vh;
+            height: 140px;
+            background-size: 100%;
+            background-position: center;
+          }
+
+          .p6:hover{
+              position: absolute;
+              left:103vh;
+              top:43vh;
+              height: 220px;
+              background-size: 150%;
+              background-position: center;
+
+
+            }
+
+            .p7{
+              position: absolute;
+              left:117vh;
+              top:43vh;
+              height: 140px;
+              background-size: 100%;
+              background-position: center;
+            }
+
+            .p7:hover{
+                position: absolute;
+                left:117vh;
+                top:43vh;
+                height: 220px;
+                background-size: 150%;
+                background-position: center;
+
+
+              }
+
+              .p8{
+                position: absolute;
+                left:77vh;
+                top:10vh;
+                height: 140px;
+                background-size: 100%;
+                background-position: center;
+              }
+
+              .p8:hover{
+                  position: absolute;
+                  left:77vh;
+                  top:10vh;
+                  height: 220px;
+                  background-size: 150%;
+                  background-position: center;
+
+
+                }
+
+
+
+                .p9{
+                  position: absolute;
+                  left:77vh;
+                  top:60vh;
+                  height: 130px;
+                  background-size: 100%;
+                  background-position: center;
+                }
+
+                .p9:hover{
+                    position: absolute;
+                    left:77vh;
+                    top:60vh;
+                    height: 210px;
+                    background-size: 150%;
+                    background-position: center;
+
+
+                  }
+
+
+                  .p10{
+                    position: absolute;
+                    left:60vh;
+                    top:60vh;
+                    height: 130px;
+                    background-size: 100%;
+                    background-position: center;
+                  }
+
+                  .p10:hover{
+                      position: absolute;
+                      left:60vh;
+                      top:60vh;
+                      height: 210px;
+                      background-size: 150%;
+                      background-position: center;
+
+
+                    }
+
+
+                    .p11{
+                      position: absolute;
+                      left:75vh;
+                      top:73vh;
+                      height: 130px;
+                      background-size: 100%;
+                      background-position: center;
+                    }
+
+                    .p11:hover{
+                        position: absolute;
+                        left:75vh;
+                        top:73vh;
+                        height: 210px;
+                        background-size: 150%;
+                        background-position: center;
+
+
+                      }
+
+
+                      .p12{
+                        position: absolute;
+                        left:75vh;
+                        top:84vh;
+                        height: 130px;
+                        background-size: 100%;
+                        background-position: center;
+                      }
+
+                      .p12:hover{
+                          position: absolute;
+                          left:75vh;
+                          top:84vh;
+                          height: 210px;
+                          background-size: 150%;
+                          background-position: center;
+
+
+                        }
+
+
+                        .p13{
+                          position: absolute;
+                          left:60vh;
+                          top:95vh;
+                          height: 130px;
+                          background-size: 100%;
+                          background-position: center;
+                        }
+
+                        .p13:hover{
+                            position: absolute;
+                            left:60vh;
+                            top:95vh;
+                            height: 210px;
+                            background-size: 150%;
+                            background-position: center;
+
+
+                          }
+
+
+                          .p14{
+                            position: absolute;
+                            left:40vh;
+                            top:75vh;
+                            height: 130px;
+                            background-size: 100%;
+                            background-position: center;
+                          }
+
+                          .p14:hover{
+                              position: absolute;
+                              left:40vh;
+                              top:75vh;
+                              height: 210px;
+                              background-size: 150%;
+                              background-position: center;
+
+
+                            }

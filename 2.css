@@ -1,0 +1,40 @@
+.p2{
+  position: absolute;
+  top:40vh;
+  left:110vh;
+
+}
+
+.p{
+  position: absolute;
+  top:40vh;
+  left:110vh;
+}
+
+.p2:hover{
+opacity: 0;
+}
+
+.q1{
+  position: absolute;
+  top:20vh;
+  left:20vh;
+}
+
+.q2{
+  position: absolute;
+  top:62vh;
+  left:20vh;
+}
+
+.q3{
+  position: absolute;
+  top:80vh;
+  left:110vh;
+}
+
+.q4{
+  position: absolute;
+  top:90vh;
+  left:20vh;
+}
